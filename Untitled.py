@@ -1,14 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 print("Hello World!")
-
-
-# In[ ]:
-
+#어떻게 쓰는 걸까
 
 
 
