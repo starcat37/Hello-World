@@ -9,7 +9,7 @@ print(f.renderText("Hello World!"))
 
 #국가명을 input으로 받아 해당 국가의 언어 인사를 출력하는 프로그램
 
-dic_coun_lan = {'South Korea':"안녕하세요!", 'USA':"Hello!", 'Japan':'こんにちは！', 'China':'你好！'}
+dic_coun_lan = {'South Korea':'안녕하세요!', 'USA':'Hello!', 'Japan':'こんにちは！', 'China':'你好！'}
 
 print("Supported country: South Korea, USA, Japan, China")
 country = input("Please enter your country. (English) : ")
